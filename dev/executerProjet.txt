@@ -1,0 +1,12 @@
+1. tirer le projet du GitHub (https://github.com/PHDfloppper/starwarsTCG)
+2. création de la bd. j'utilise MongoDB Compass
+	-créé une bd nommé "starwars"
+	-créé une bd nommé "starwars_test"
+	-pour les collections, elles sont les même nom que les fichiers
+		json dans "dev/db/" (decks.json = decks)
+3. dans une console, aller à "backend/starwars/"
+	-"npm install"
+	-"npm run dev"
+4. dans une console, aller à "frontend/starwars_front/"
+	-"npm install"
+	-"npm run dev"

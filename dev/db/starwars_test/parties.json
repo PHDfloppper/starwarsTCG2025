@@ -1,0 +1,532 @@
+[{
+  "_id": {
+    "$oid": "6889089423a44bd2e1303105"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:44:52.579Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:44:52.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688909745384c2668cc85d39"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:48:36.080Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:48:36.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688909970e987294d0d69ced"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:49:11.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:49:11.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890a022b23c00be72be8f2"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:50:58.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:50:58.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890a2fe2540125ac7b4e78"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:51:43.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:51:43.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890a49c81de76b078e6cfa"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:52:09.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:52:09.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890a5f05172897403921e1"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:52:31.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:52:31.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890a80bac90e7edbe9e364"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:53:04.833Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:53:04.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890a99551001505b92d58b"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:53:29.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:53:29.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890abe5c06a3277ff0f46b"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:54:06.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:54:06.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890b4ed0ac9fc6113c2035"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:56:30.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:56:30.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890b5c233284653f05fcad"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:56:44.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:56:44.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890b9b3e39d22a81ca8590"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T17:57:47.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T17:57:47.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890c4270eba423ad61b956"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:00:34.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:00:34.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890c7ea663c5a1bb82d1f9"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:01:34.672Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:01:34.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890ca19b4dc863a8fbd0c3"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:02:09.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:02:09.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890ccc77eaf117e452b2b7"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:02:52.014Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:02:52.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890ccf441c641c8d2884a7"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:02:55.646Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:02:55.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68890ce3073bb6cad7f09fcd"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:03:15.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:03:15.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688913c49cbba9b2539d4498"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:32:36.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:32:36.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6889199a92d63d3c2fa0cab9"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:57:30.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:57:30.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688919e5c064dede2665d585"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:58:45.596Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:58:45.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688919ef2d520ac75bf4b308"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:58:55.010Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:58:55.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688919fd95ac9572e8764bef"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:59:09.049Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:59:09.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68891a0b8e8b2d059e4b888e"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:59:23.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:59:23.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68891a2dcf08320a843a18d8"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T18:59:57.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T18:59:57.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68891a3d82983238799f9a1b"
+  },
+  "datePartie": {
+    "$date": "2027-03-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-29T19:00:13.072Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T19:00:13.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a1e041b15d1dd7a2a3443"
+  },
+  "datePartie": {
+    "$date": "2027-03-20T14:00:00.000Z"
+  },
+  "adversaire": "JoueurTest",
+  "deckUtilise": "Deck Test",
+  "resultat": "victoire",
+  "commentaires": "Test de partie.",
+  "createdAt": {
+    "$date": "2025-07-30T13:28:36.258Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:28:36.258Z"
+  },
+  "__v": 0
+}]

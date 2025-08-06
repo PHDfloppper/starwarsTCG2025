@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "688a37bfa5583b4b98b480a4"
+  },
+  "nom": "luke",
+  "motDePasse": "$2b$10$rdW2a3.qgjZazygSxNbVNePPnvMBkPnr.bMhkYw/rhKVmUgYyCLvO",
+  "createdAt": {
+    "$date": "2025-07-30T15:18:23.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T15:18:23.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a37c0a5583b4b98b480a6"
+  },
+  "nom": "luke",
+  "motDePasse": "$2b$10$.x46bCaVj9vF2AL.0eejL.So8OLeB4l.1VWl9hGrrg6oZjDW8PQJa",
+  "createdAt": {
+    "$date": "2025-07-30T15:18:24.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T15:18:24.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a37efed74a0a3332fc032"
+  },
+  "nom": "luke",
+  "motDePasse": "$2b$10$onXaA0FundMT1K8X7NfKf.J21TYgy8eCZl0iKeAvgtd4rqqiH6tHy",
+  "createdAt": {
+    "$date": "2025-07-30T15:19:11.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T15:19:11.427Z"
+  },
+  "__v": 0
+}]

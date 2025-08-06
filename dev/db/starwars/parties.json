@@ -1,0 +1,438 @@
+[{
+  "_id": {
+    "$oid": "68878ecb6c8d064989735133"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "Bob",
+  "deckUtilise": "Deck Sith Aggressif",
+  "resultat": "victoire",
+  "commentaires": "Partie serrée avec de belles stratégies.",
+  "utilisateur": ""
+},
+{
+  "_id": {
+    "$oid": "68878ecb6c8d064989735134"
+  },
+  "datePartie": {
+    "$date": "2025-07-21T17:30:00.000Z"
+  },
+  "adversaire": "Dana",
+  "deckUtilise": "Deck Sith Aggressif",
+  "resultat": "défaite",
+  "commentaires": "Victoire rapide par Dana.",
+  "utilisateur": ""
+},
+{
+  "_id": {
+    "$oid": "68878ecb6c8d064989735135"
+  },
+  "datePartie": {
+    "$date": "2025-07-22T20:00:00.000Z"
+  },
+  "adversaire": "Frank",
+  "deckUtilise": "Deck Clones Polyvalent",
+  "resultat": "victoire",
+  "commentaires": "Partie personnalisée avec règles maison.",
+  "utilisateur": ""
+},
+{
+  "_id": {
+    "$oid": "6890e5e7cb467dbcae255329"
+  },
+  "datePartie": {
+    "$date": "2025-07-20T14:00:00.000Z"
+  },
+  "adversaire": "adadawdawawdawd",
+  "deckUtilise": "Ddadadeckadadaw Sawdawdawdessif",
+  "resultat": "victoire",
+  "commentaires": "Pwadawdartawdawdwdwaawdawdawdie serrée avec de belles stratégies.",
+  "createdAt": {
+    "$date": "2025-08-04T16:55:03.442Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T16:55:03.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890fa9aa4113f789d319693"
+  },
+  "datePartie": {
+    "$date": "2025-08-20T00:00:00.000Z"
+  },
+  "adversaire": "non",
+  "deckUtilise": "deck1",
+  "resultat": "victoire",
+  "commentaires": "non",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T18:23:22.715Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T18:23:22.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891089a090c8091058a5571"
+  },
+  "datePartie": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "adversaire": "eewfef",
+  "deckUtilise": "refaitTest",
+  "resultat": "victoire",
+  "commentaires": "fefewfw",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T19:23:06.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:23:06.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689108b7090c8091058a5575"
+  },
+  "datePartie": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "adversaire": "eewfef",
+  "deckUtilise": "refaitTest",
+  "resultat": "victoire",
+  "commentaires": "fefewfw",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T19:23:35.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:23:35.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689108b8090c8091058a5579"
+  },
+  "datePartie": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "adversaire": "eewfef",
+  "deckUtilise": "refaitTest",
+  "resultat": "victoire",
+  "commentaires": "fefewfw",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T19:23:36.331Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:23:36.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689108b8090c8091058a557d"
+  },
+  "datePartie": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "adversaire": "eewfef",
+  "deckUtilise": "refaitTest",
+  "resultat": "victoire",
+  "commentaires": "fefewfw",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T19:23:36.617Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:23:36.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689108b8090c8091058a5581"
+  },
+  "datePartie": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "adversaire": "eewfef",
+  "deckUtilise": "refaitTest",
+  "resultat": "victoire",
+  "commentaires": "fefewfw",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T19:23:36.762Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:23:36.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689108b8090c8091058a5585"
+  },
+  "datePartie": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "adversaire": "eewfef",
+  "deckUtilise": "refaitTest",
+  "resultat": "victoire",
+  "commentaires": "fefewfw",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T19:23:36.986Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:23:36.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689108b9090c8091058a5589"
+  },
+  "datePartie": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "adversaire": "eewfef",
+  "deckUtilise": "refaitTest",
+  "resultat": "victoire",
+  "commentaires": "fefewfw",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T19:23:37.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:23:37.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68910991090c8091058a55b3"
+  },
+  "datePartie": {
+    "$date": "2026-09-24T00:00:00.000Z"
+  },
+  "adversaire": "adv",
+  "deckUtilise": "refaitTest",
+  "resultat": "défaite",
+  "commentaires": "com",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-04T19:27:13.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T22:12:15.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6892430334c0b91ef8916dbe"
+  },
+  "datePartie": {
+    "$date": "2025-08-12T00:00:00.000Z"
+  },
+  "adversaire": "testttt",
+  "deckUtilise": "deck3",
+  "resultat": "victoire",
+  "commentaires": "testttt",
+  "utilisateur": "test",
+  "createdAt": {
+    "$date": "2025-08-05T17:44:35.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T17:44:35.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68924e676e038a23cb532104"
+  },
+  "datePartie": {
+    "$date": "2025-08-06T00:00:00.000Z"
+  },
+  "adversaire": "oui",
+  "deckUtilise": "nom du deck cool",
+  "resultat": "victoire",
+  "commentaires": "oui",
+  "utilisateur": "bel",
+  "createdAt": {
+    "$date": "2025-08-05T18:33:11.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T18:33:11.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68924e746e038a23cb53210c"
+  },
+  "datePartie": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "adversaire": "oui",
+  "deckUtilise": "nom du deck cool",
+  "resultat": "victoire",
+  "commentaires": "oui",
+  "utilisateur": "bel",
+  "createdAt": {
+    "$date": "2025-08-05T18:33:24.293Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T18:33:24.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68924e866e038a23cb532114"
+  },
+  "datePartie": {
+    "$date": "2025-08-20T00:00:00.000Z"
+  },
+  "adversaire": "nono",
+  "deckUtilise": "efsesfesfef",
+  "resultat": "victoire",
+  "commentaires": "nonoono",
+  "utilisateur": "bel",
+  "createdAt": {
+    "$date": "2025-08-05T18:33:42.614Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T18:33:42.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937cb3675898acbe3c5529"
+  },
+  "datePartie": {
+    "$date": "2025-08-07T00:00:00.000Z"
+  },
+  "adversaire": "oui",
+  "deckUtilise": "non",
+  "resultat": "victoire",
+  "commentaires": "non",
+  "utilisateur": "conf",
+  "createdAt": {
+    "$date": "2025-08-06T16:02:59.056Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T16:02:59.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937cc4675898acbe3c552d"
+  },
+  "datePartie": {
+    "$date": "2025-08-09T00:00:00.000Z"
+  },
+  "adversaire": "oui",
+  "deckUtilise": "non",
+  "resultat": "victoire",
+  "commentaires": "hehe",
+  "utilisateur": "conf",
+  "createdAt": {
+    "$date": "2025-08-06T16:03:16.626Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T16:03:16.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937ccd675898acbe3c5531"
+  },
+  "datePartie": {
+    "$date": "2025-08-09T00:00:00.000Z"
+  },
+  "adversaire": "oui",
+  "deckUtilise": "non",
+  "resultat": "défaite",
+  "commentaires": "nonoon",
+  "utilisateur": "conf",
+  "createdAt": {
+    "$date": "2025-08-06T16:03:25.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T16:03:25.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937cd3675898acbe3c5533"
+  },
+  "datePartie": {
+    "$date": "2025-08-09T00:00:00.000Z"
+  },
+  "adversaire": "ahhhhh",
+  "deckUtilise": "hehe",
+  "resultat": "défaite",
+  "commentaires": "nonoon",
+  "utilisateur": "conf",
+  "createdAt": {
+    "$date": "2025-08-06T16:03:31.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T16:03:31.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937ce5675898acbe3c5539"
+  },
+  "datePartie": {
+    "$date": "2025-08-21T00:00:00.000Z"
+  },
+  "adversaire": "dewdwq",
+  "deckUtilise": "hehe",
+  "resultat": "défaite",
+  "commentaires": "qwddwqd",
+  "utilisateur": "conf",
+  "createdAt": {
+    "$date": "2025-08-06T16:03:49.676Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T16:03:49.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937cf8675898acbe3c553f"
+  },
+  "datePartie": {
+    "$date": "2025-08-14T00:00:00.000Z"
+  },
+  "adversaire": "csdsfdzzd",
+  "deckUtilise": "hehe",
+  "resultat": "victoire",
+  "commentaires": "fsdsfdsfd",
+  "utilisateur": "conf",
+  "createdAt": {
+    "$date": "2025-08-06T16:04:08.584Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T16:04:08.584Z"
+  },
+  "__v": 0
+}]

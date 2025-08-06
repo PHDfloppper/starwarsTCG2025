@@ -1,0 +1,616 @@
+[{
+  "_id": {
+    "$oid": "688a218002a8118603664cae"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:43:28.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:43:28.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a21a941539e432924fe76"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:44:09.192Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:44:09.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a220276c11eee50bc41d7"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:45:38.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:45:38.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a224d66982a6ddfa2badc"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:46:53.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:46:53.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a230a94d826f3ca1d74cd"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:50:02.861Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:50:02.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a232f54e7aa46d37bae73"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:50:39.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:50:39.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a23791672393798c5e10b"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:51:53.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:51:53.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a2393b4f8db21fa3e57ad"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:52:19.920Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:52:19.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a23f03162a1cb106402b2"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:53:52.671Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:53:52.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a252ddcedaaab1ab66a4b"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:59:09.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:59:09.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a2569dbdbac3ea40433d0"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:00:09.193Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:00:09.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a260d0189a08056482e1c"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:02:53.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:02:53.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a26234a09df1f6786ca0b"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:03:15.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:03:15.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a2659c60be085b78584da"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:04:09.303Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:04:09.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a26e5367abf57f7c6e254"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:06:29.358Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:06:29.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a272688cd5820f2b861fc"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:07:34.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:07:34.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a2783b9d91117dbcd18f3"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:09:07.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:09:07.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a27d375f5f8fba0ce72c7"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:10:27.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:10:27.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a27f6d043ca0dcc023278"
+  },
+  "nom": "Deck Jedi",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:11:02.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:11:02.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a2838e96c0daa06de2822"
+  },
+  "nom": "Deck modif",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:12:08.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:12:08.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a286305b3fac8371c4ed4"
+  },
+  "nom": "Deck modif",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:12:51.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:12:51.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a28c796ef7382af56c0bb"
+  },
+  "nom": "Deck modif",
+  "description": "Un deck basé sur les Jedi.",
+  "leader": "Luke Skywalker",
+  "base": "Base Echo",
+  "createur": "utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 101,
+      "quantite": 2
+    },
+    {
+      "numero": 202,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T14:14:31.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:14:31.780Z"
+  },
+  "__v": 0
+}]

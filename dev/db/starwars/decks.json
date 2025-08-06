@@ -1,0 +1,665 @@
+[{
+  "_id": {
+    "$oid": "68878df76c8d06498973512e"
+  },
+  "nom": "Deck Jedi Défensif",
+  "description": "Un deck basé sur la défense et le contrôle du terrain.",
+  "leader": "Ahsoka Tano",
+  "base": "Temple Jedi",
+  "createur": "Utilisateur123",
+  "victoires": 5,
+  "cartes": [
+    {
+      "numero": 11,
+      "quantite": 3
+    },
+    {
+      "numero": 107,
+      "quantite": 4
+    },
+    {
+      "numero": 240,
+      "quantite": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68878df76c8d06498973512f"
+  },
+  "nom": "Deck Sith Aggressif",
+  "description": "Un deck agressif orienté dégâts rapides.",
+  "leader": "General Grievous",
+  "base": "Forteresse Sith",
+  "createur": "Utilisateur456",
+  "victoires": 8,
+  "cartes": [
+    {
+      "numero": 15,
+      "quantite": 3
+    },
+    {
+      "numero": 237,
+      "quantite": 2
+    },
+    {
+      "numero": 236,
+      "quantite": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68878df76c8d064989735130"
+  },
+  "nom": "Deck Clones Polyvalent",
+  "description": "Un deck mixte avec des unités clones.",
+  "leader": "Captain Rex",
+  "base": "Bataille de Geonosis",
+  "createur": "Utilisateur789",
+  "victoires": 3,
+  "cartes": [
+    {
+      "numero": 240,
+      "quantite": 4
+    },
+    {
+      "numero": 107,
+      "quantite": 3
+    },
+    {
+      "numero": 11,
+      "quantite": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6887d55deb2aa0216f3889d9"
+  },
+  "nom": "huhhhhhhh",
+  "description": "Un deck de test",
+  "leader": "Ahsoka Testo",
+  "base": "Test Jedi",
+  "createur": "test69420",
+  "victoires": 99,
+  "cartes": [
+    {
+      "numero": 240,
+      "quantite": 2
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-28T19:54:05.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T13:56:01.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888d9c4e55d68ac4a4f1419"
+  },
+  "nom": "awdawdawdawd",
+  "description": "Un deawaddawdawdawdck de test",
+  "leader": "Ahsokadadawdwada Testo",
+  "base": "Tesawdadadawdt Jedi",
+  "createur": "test69awdadadw420",
+  "victoires": 99,
+  "cartes": [
+    {
+      "numero": 240,
+      "quantite": 2
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-29T14:25:08.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T14:25:08.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a22416bbb2f2d8735abae"
+  },
+  "nom": "awdawdawdawd",
+  "description": "Un deawaddawdawdawdck de test",
+  "leader": "Ahsokadadawdwada Testo",
+  "base": "hahsahsahs",
+  "createur": "alloooooo",
+  "victoires": 99,
+  "cartes": [
+    {
+      "numero": 240,
+      "quantite": 2
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-30T13:46:41.547Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T13:46:41.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b6e94f5b2d369cd44f83c"
+  },
+  "nom": "sdrhgjfds",
+  "description": "ragragra",
+  "leader": "garegaerga",
+  "base": "grgeargrea",
+  "createur": "aregaegergaerg",
+  "victoires": 0,
+  "cartes": [],
+  "createdAt": {
+    "$date": "2025-07-31T13:24:37.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-31T13:24:37.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b732cf5b2d369cd44f840"
+  },
+  "nom": "AAAAAAA",
+  "description": "aAAAAAAAAAA",
+  "leader": "AAAAAAAA",
+  "base": "AAAAAAAAA",
+  "createur": "AAAAAA",
+  "victoires": 0,
+  "cartes": [],
+  "createdAt": {
+    "$date": "2025-07-31T13:44:12.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-31T13:44:12.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b7382f5b2d369cd44f844"
+  },
+  "nom": "BBBBBB",
+  "description": "BBBBBBBBB",
+  "leader": "BBBBBBBB",
+  "base": "BBBBBBB",
+  "createur": "BBBBBBBBB",
+  "victoires": 0,
+  "cartes": [
+    {
+      "numero": 123,
+      "quantite": 3
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T13:45:38.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-31T13:45:38.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b73d2f5b2d369cd44f846"
+  },
+  "nom": "ZZZZZZZZZ",
+  "description": "ZZZZZZZZ",
+  "leader": "ZZZZZZZZ",
+  "base": "ZZZZZZZZ",
+  "createur": "ZZZZZZZZ",
+  "victoires": 0,
+  "cartes": [
+    {
+      "numero": 12,
+      "quantite": 3
+    },
+    {
+      "numero": 213,
+      "quantite": 2
+    },
+    {
+      "numero": 214,
+      "quantite": 2
+    },
+    {
+      "numero": 111,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T13:46:58.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-31T13:46:58.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b805ff5b2d369cd44f88e"
+  },
+  "nom": "deck2",
+  "description": "desc2",
+  "leader": "lead2",
+  "base": "base2",
+  "createur": "test",
+  "victoires": 41,
+  "cartes": [
+    {
+      "numero": 2,
+      "quantite": 2
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T14:40:31.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-31T14:40:31.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688b80f5f5b2d369cd44f892"
+  },
+  "nom": "deck3",
+  "description": "desc3",
+  "leader": "lead3",
+  "base": "base3",
+  "createur": "test",
+  "victoires": 3,
+  "cartes": [
+    {
+      "numero": 3,
+      "quantite": 3
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T14:43:01.691Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T17:44:35.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688ba592f5b2d369cd44f8b8"
+  },
+  "nom": "test de modif",
+  "description": "wadadawdawd",
+  "leader": "lead1",
+  "base": "base1",
+  "createur": "test",
+  "victoires": 21,
+  "cartes": [
+    {
+      "numero": 1,
+      "quantite": 1
+    },
+    {
+      "numero": 54,
+      "quantite": 3
+    },
+    {
+      "numero": 165,
+      "quantite": 3
+    },
+    {
+      "numero": 21,
+      "quantite": 4
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-31T17:19:14.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-31T18:09:16.688Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6890eacaa4113f789d31963c"
+  },
+  "nom": "refaitTest",
+  "description": "refaitTest",
+  "leader": "refaitTest",
+  "base": "refaitTest",
+  "createur": "test",
+  "victoires": 7,
+  "cartes": [
+    {
+      "numero": 2,
+      "quantite": 2
+    },
+    {
+      "numero": 3,
+      "quantite": 3
+    },
+    {
+      "numero": 23,
+      "quantite": 2
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-04T17:15:54.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:23:37.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890edd4a4113f789d319647"
+  },
+  "nom": "nom",
+  "description": "desc",
+  "leader": "lead",
+  "base": "base",
+  "createur": "test",
+  "victoires": 7,
+  "cartes": [
+    {
+      "numero": 1,
+      "quantite": 1
+    },
+    {
+      "numero": 2,
+      "quantite": 2
+    },
+    {
+      "numero": 3,
+      "quantite": 3
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-04T17:28:52.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:27:13.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890f732a4113f789d31966a"
+  },
+  "nom": "test1",
+  "description": "test",
+  "leader": "ettetst",
+  "base": "tetst",
+  "createur": "test",
+  "victoires": 8,
+  "cartes": [
+    {
+      "numero": 3,
+      "quantite": 3
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-04T18:08:50.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T19:05:40.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68924d6f6e038a23cb5320e0"
+  },
+  "nom": "nom du deck cool",
+  "description": "desc cool",
+  "leader": "leader bel",
+  "base": "base cool",
+  "createur": "bel",
+  "victoires": 2,
+  "cartes": [
+    {
+      "numero": 2,
+      "quantite": 3
+    },
+    {
+      "numero": 1,
+      "quantite": 4
+    },
+    {
+      "numero": 2,
+      "quantite": 3
+    },
+    {
+      "numero": 1,
+      "quantite": 3
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-05T18:29:03.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T18:33:24.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68924da66e038a23cb5320ea"
+  },
+  "nom": "deckbel",
+  "description": "deckDesc",
+  "leader": "leaderDeck",
+  "base": "deckbase",
+  "createur": "bel",
+  "victoires": 0,
+  "cartes": [
+    {
+      "numero": 2,
+      "quantite": 2
+    },
+    {
+      "numero": 4,
+      "quantite": 7
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-05T18:29:58.987Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T18:29:58.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68924e0b6e038a23cb5320f8"
+  },
+  "nom": "efsesfesfef",
+  "description": "",
+  "leader": "awfawfawf",
+  "base": "awfawfafafaf",
+  "createur": "bel",
+  "victoires": 1,
+  "cartes": [
+    {
+      "numero": 2,
+      "quantite": 2
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-05T18:31:39.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T18:33:42.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689369b2675898acbe3c540b"
+  },
+  "nom": "wefe",
+  "description": "ewfeawf",
+  "leader": "ewfewfe",
+  "base": "wfewfewf",
+  "createur": "test",
+  "victoires": 0,
+  "cartes": [
+    {
+      "numero": 1,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-06T14:41:54.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T14:41:54.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689369b9675898acbe3c540d"
+  },
+  "nom": "wefe",
+  "description": "ewfeawf",
+  "leader": "ewfewfe",
+  "base": "gygukgk",
+  "createur": "test",
+  "victoires": 0,
+  "cartes": [
+    {
+      "numero": 1,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-06T14:42:01.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T14:42:01.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937b91675898acbe3c54f2"
+  },
+  "nom": "conf1",
+  "description": "conf1",
+  "leader": "conf1",
+  "base": "conf1",
+  "createur": "conf",
+  "victoires": 0,
+  "cartes": [
+    {
+      "numero": 2,
+      "quantite": 2
+    },
+    {
+      "numero": 3,
+      "quantite": 3
+    },
+    {
+      "numero": 1,
+      "quantite": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-06T15:58:09.470Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T15:58:09.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937bae675898acbe3c54f6"
+  },
+  "nom": "non",
+  "description": "non",
+  "leader": "non",
+  "base": "non",
+  "createur": "conf",
+  "victoires": 2,
+  "cartes": [
+    {
+      "numero": 2,
+      "quantite": 2
+    },
+    {
+      "numero": 3,
+      "quantite": 3
+    },
+    {
+      "numero": 1,
+      "quantite": 1
+    },
+    {
+      "numero": 3,
+      "quantite": 3
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-06T15:58:38.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T16:03:16.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937bc5675898acbe3c54f8"
+  },
+  "nom": "hehe",
+  "description": "hehe",
+  "leader": "hehe",
+  "base": "hehe",
+  "createur": "conf",
+  "victoires": 1,
+  "cartes": [
+    {
+      "numero": 2,
+      "quantite": 2
+    },
+    {
+      "numero": 3,
+      "quantite": 3
+    },
+    {
+      "numero": 1,
+      "quantite": 1
+    },
+    {
+      "numero": 3,
+      "quantite": 3
+    },
+    {
+      "numero": 5,
+      "quantite": 2
+    },
+    {
+      "numero": 6,
+      "quantite": 2
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-06T15:59:01.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T16:04:08.605Z"
+  },
+  "__v": 1
+}]

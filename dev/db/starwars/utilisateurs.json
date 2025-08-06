@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "6888e8a1666dcc0dddf63fc5"
+  },
+  "nom": "luke",
+  "motDePasse": "force123"
+},
+{
+  "_id": {
+    "$oid": "6888e8a1666dcc0dddf63fc6"
+  },
+  "nom": "leia",
+  "motDePasse": "rebelle456"
+},
+{
+  "_id": {
+    "$oid": "6888e8a1666dcc0dddf63fc7"
+  },
+  "nom": "vador",
+  "motDePasse": "darkside789"
+},
+{
+  "_id": {
+    "$oid": "6888e8a1666dcc0dddf63fc8"
+  },
+  "nom": "han",
+  "motDePasse": "millennium"
+},
+{
+  "_id": {
+    "$oid": "6888e8a1666dcc0dddf63fc9"
+  },
+  "nom": "yoda",
+  "motDePasse": "sage999"
+},
+{
+  "_id": {
+    "$oid": "688a2e58060fb0089410e4ef"
+  },
+  "nom": "heheheheehe",
+  "motDePasse": "$2b$10$VcR60q0jPGgOtMbQQB2Vt.CoxJhZpMnVZTtqypc1xuKTux/rW0xXy",
+  "createdAt": {
+    "$date": "2025-07-30T14:38:16.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:38:16.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a2ec8b4168a9bd857d587"
+  },
+  "nom": "hehehewadawadwdawheehe",
+  "motDePasse": "$2b$10$GzXH/4/7J9BNDwiCAnKDOebFMxXMgWqHf5WUw1t9Fb84TN9rsAwLe",
+  "createdAt": {
+    "$date": "2025-07-30T14:40:08.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:40:08.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a2ed4b4168a9bd857d589"
+  },
+  "nom": "he213123123awheehe",
+  "motDePasse": "$2b$10$zp6yPF8RgeYi5k/AuWoT7eJOaoZYJOkKmIderOoaKL1JbPDXvAoNG",
+  "createdAt": {
+    "$date": "2025-07-30T14:40:20.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T14:40:20.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688a529ec1dfd1eaee2a510c"
+  },
+  "nom": "test",
+  "motDePasse": "$2b$10$PYmo1GzVxRyIj0HNQ/iQwOa4NP9.OlVumCOT.o5vstlNKdgHOUP6m",
+  "createdAt": {
+    "$date": "2025-07-30T17:13:02.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-30T17:13:02.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68920a12090c8091058a56fd"
+  },
+  "nom": "oli",
+  "motDePasse": "$2b$10$CR4BueoyFuGmIo.Al1pC2Ocii5xLzIg0VyJXVkhFFbrFUAQLZzJhe",
+  "createdAt": {
+    "$date": "2025-08-05T13:41:38.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T13:41:38.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68920a6a090c8091058a5700"
+  },
+  "nom": "testt",
+  "motDePasse": "$2b$10$61hHSH0WHbBnFtdoQxnb8.B93PBB/DUpVVOrvwhux1dS17iUIooFi",
+  "createdAt": {
+    "$date": "2025-08-05T13:43:06.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T13:43:06.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68924d376e038a23cb5320da"
+  },
+  "nom": "bel",
+  "motDePasse": "$2b$10$5U0udISc6UvyWtu/ah7EFe4FOqSdpS10Jey2CjTNB.3XJb0aLE/nS",
+  "createdAt": {
+    "$date": "2025-08-05T18:28:07.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T18:28:07.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689257357c3553c9dca9cb3f"
+  },
+  "nom": "oui",
+  "motDePasse": "$2b$10$oTBBiSHGfv.a.zxjXRyxPOG0ry4gyWMcB4UQhmhtJ/EOReu.BoMZC",
+  "createdAt": {
+    "$date": "2025-08-05T19:10:45.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T19:10:45.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689257437c3553c9dca9cb41"
+  },
+  "nom": "uuiluiul",
+  "motDePasse": "$2b$10$vMDcHPtYYTAKTKvkKEf33Oo7cgcydhkS6n7Pw/Q2T8TssjJabMc8m",
+  "createdAt": {
+    "$date": "2025-08-05T19:10:59.993Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T19:10:59.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68935dd4675898acbe3c53d5"
+  },
+  "nom": "haha",
+  "motDePasse": "$2b$10$UnSTziTuofeUrPEqitkKDOcXlYZhIcgBjUlwfwS1NCdKQ3AF8t2iq",
+  "createdAt": {
+    "$date": "2025-08-06T13:51:16.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T13:51:16.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68935de3675898acbe3c53d7"
+  },
+  "nom": "adawa",
+  "motDePasse": "$2b$10$YjgtOlh4NtXavqS61nE2Aek4i1ZEvKTwWCRGD/QZQOigfjXFrNF9i",
+  "createdAt": {
+    "$date": "2025-08-06T13:51:31.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T13:51:31.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68937b62675898acbe3c54ed"
+  },
+  "nom": "conf",
+  "motDePasse": "$2b$10$AxpRj3QzPt3wtxBmO1Bhq.uAJwHCObY/orZKcnsRChVcitFApDaHO",
+  "createdAt": {
+    "$date": "2025-08-06T15:57:22.993Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T15:57:22.993Z"
+  },
+  "__v": 0
+}]
